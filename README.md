@@ -1,40 +1,70 @@
-# 🎯 daily-jobs · 27届秋招 AI/算法岗每日推送
+# 🎯 daily-jobs · 27届秋招 AI/算法岗每日雷达
 
-牛客 + 龙哥表双源汇总,由 [Hermes](https://hermes-agent.nousresearch.com) cron 每日自动更新。
+开源、零依赖(纯 Python3 标准库)的校招职位每日监控工具。
 
-## 📅 最新(2026-09-08)
+双数据源:
+- **牛客校招日历** — 每天抓取最新收录的 AI/算法岗(需要你自己的 Cookie)
+- **龙哥27届秋招信息汇总表**(腾讯文档 smartsheet)— 无需凭据,公开 API
 
-- 牛客新增 AI/算法岗(27届): **0 家**
-- 龙哥表新增: **108 家**(全量 272 家)
+每天生成 `data/YYYY-MM-DD.json` 快照 + `latest.json` 最新数据。
 
-### 龙哥表新增
+## 🚀 快速开始
 
-- ** 2、 制造技术类** | 
-- ** 3、 运营支持类** | 
-- ** 4、 职能类** | 
-- ** 5、 销售类** | 尽快投递
-- ** • 美术：游戏原画师、技术美术、游戏动效设计师** | 
-- ** • 市场：广告投放、广告创意策划、市场** | 尽快投递
-- ** ✅服装商品：商品企划、买手、数据分析师** | 尽快投递
-- ** ** | 
-- ** 运营** | 
-- ** ** | 
-- ** 策划** | 
-- ** ** | 
-- ** 后台** | 
-- ** ** | 
-- ** 美术** | 
-- ** ** | 
-- ** 客户端** | 
-- ** ** | 
-- ** 数据** | 
-- ** ** | 
+```bash
+git clone https://github.com/cloud666666666/daily-jobs.git
+cd daily-jobs
 
-## 📂 数据说明
+# 只用龙哥表(无需任何配置)
+python3 run.py
 
-- `data/YYYY-MM-DD.json` — 每日快照
-- `latest.json` — 最新数据(供博客/工具拉取)
-- 数据源: [牛客校招日历](https://www.nowcoder.com/jobs/school/schedule) + 龙哥27届秋招信息汇总表(腾讯文档)
-- 已过滤: 阿里系(届别要求 2026.11 后毕业)、非 27 届、非 AI/算法方向
+# 加上牛客源: 先获取你的 Cookie(见下), 然后
+export NOWCODER_COOKIE='你的Cookie'
+python3 run.py
+```
 
-> 项目作者: [Joker.Yun](https://github.com/cloud666666666)
+无任何第三方依赖,Python 3.8+ 即可。
+
+## 🍪 获取牛客 Cookie
+
+1. 浏览器登录 nowcoder.com
+2. F12 打开开发者工具 → Network 面板
+3. 刷新校招日历页(https://www.nowcoder.com/jobs/school/schedule)
+4. 找 `calendar/search` 请求 → Request Headers 里复制完整 `Cookie` 值
+5. `export NOWCODER_COOKIE='粘贴这里'`
+
+> Cookie 含登录态,请勿提交进 git。仓库已忽略 `.state_*.json`(增量去重状态,首次运行会自动生成)。
+
+## ⏰ 定时运行
+
+```bash
+# crontab 示例: 每天 9:45 抓取并推送
+45 9 * * * cd /path/to/daily-jobs && NOWCODER_COOKIE='xxx' python3 run.py --push
+```
+
+`--push` 需要先把仓库 fork/clone 到自己的账号并配好 remote。
+
+## 📂 数据格式
+
+`latest.json`:
+
+```json
+{
+  "date": "2026-09-08",
+  "nowcoder_new": [{"name": "...", "job": "...", "end": "...", "cities": "...", "link": "..."}],
+  "longge_new":   [{"name": "...", "job": "...", "deadline": "...", "code": "内推码"}],
+  "longge_total": 272
+}
+```
+
+## 🔧 技术点
+
+- 龙哥表前端是 canvas 渲染,DOM 抓不到数据 → 从网络请求里挖出公开 JSON 接口(`/dop-api/get/sheet`),数据是 base64+zlib 压缩,解包即完整表格
+- 已过滤:阿里系(届别要求 2026.11 后毕业)、非 AI/算法方向、分组标签行
+
+## 📜 License
+
+MIT
+
+---
+
+本项目由 [Joker.Yun](https://github.com/cloud666666666) 维护,Hermes cron 每日自动更新数据快照。
