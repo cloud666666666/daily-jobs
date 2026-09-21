@@ -7,10 +7,12 @@
     python3 run.py --push    # 额外 git commit + push(需先配置好 remote)
 
 依赖: 仅 Python3 标准库。
-牛客源需要 Cookie: export NOWCODER_COOKIE='...' (见 README)
+牛客源(两种任选其一):
+  - 官方 MCP 通道: export NOWCODER_MCP_TOKEN='nk-...' (推荐, 见 README)
+  - 旧 Cookie 通道: export NOWCODER_COOKIE='...' (备用)
 """
 import json, os, sys, datetime
-import nowcoder_fetch, longge_fetch
+import nowcoder_fetch, nowcoder_mcp_fetch, longge_fetch
 
 REPO = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(REPO, "data")
@@ -19,8 +21,11 @@ DATA = os.path.join(REPO, "data")
 def main():
     today = datetime.date.today().strftime("%Y-%m-%d")
 
-    # 牛客
-    nc_err, nc = nowcoder_fetch.fetch_new()
+    # 牛客: 优先官方 MCP 通道(配置了 Token 时), 否则退回 Cookie 版
+    if os.environ.get("NOWCODER_MCP_TOKEN"):
+        nc_err, nc = nowcoder_mcp_fetch.fetch_new()
+    else:
+        nc_err, nc = nowcoder_fetch.fetch_new()
     if nc_err:
         print("⚠️", nc_err.get("error") if isinstance(nc_err, dict) else nc_err)
         nc_new = []
