@@ -59,7 +59,8 @@ python3 run.py
 
 ## 🔧 技术点
 
-- 牛客源走**官方 MCP 服务**: JSON-RPC over HTTP, 用 urllib 手写最小 MCP 客户端(`initialize` → `tools/call`), 保持零依赖
+- 牛客源走**官方 MCP 服务**: JSON-RPC over HTTP, 通过系统 `curl` 直调(`initialize` → `tools/call`; 独立超时 + 自动重试——实测 urllib 对该端点偶发长挂起), 仍零第三方 Python 依赖
+- 若本机走代理上外网, 建议设置 `NO_PROXY=nowcoder.com,docs.qq.com` 让国内数据源直连(代理链路的额外抖动不影响抓取)
 - 龙哥表前端是 canvas 渲染,DOM 抓不到数据 → 从网络请求里挖出公开 JSON 接口(`/dop-api/get/sheet`),数据是 base64+zlib 压缩,解包即完整表格
 - 已过滤:阿里系(届别要求 2026.11 后毕业)、非 AI/算法方向、分组标签行
 
