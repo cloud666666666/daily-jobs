@@ -1,160 +1,122 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "nowcoder_new": [
   {
+   "name": "长江存储",
+   "title": "博士后（前沿人工智能技术方向）(J14810)",
+   "careers": "AI, 人工智能, 大模型",
+   "batch": "27届秋招",
+   "end": "2026-10-26",
+   "cities": "湖北省·武汉市",
+   "link": "https://ymtc.zhiye.com/campus/detail?jobAdId=fd99b21c-a118-448a-81e8-5ea9056d0d7b"
+  },
+  {
+   "name": "长江存储",
+   "title": "博士后（AI+DTCO方向）(J14812)",
+   "careers": "算法, AI",
+   "batch": "27届秋招",
+   "end": "2026-10-26",
+   "cities": "湖北省·武汉市",
+   "link": "https://ymtc.zhiye.com/campus/detail?jobAdId=24dd5225-2337-4a63-a1e7-dfd8cccb3e7b"
+  },
+  {
+   "name": "长江存储",
+   "title": "博士后（人工智能加速材料研发方向）(J14813)",
+   "careers": "AI, 人工智能, 机器学习",
+   "batch": "27届秋招",
+   "end": "2026-10-26",
+   "cities": "湖北省·武汉市",
+   "link": "https://ymtc.zhiye.com/campus/detail?jobAdId=a231edca-af45-496e-8968-69f20944cc16"
+  },
+  {
    "name": "阿里巴巴",
-   "title": "高德 AI 运营实习生",
-   "careers": "AI",
+   "title": "日常实习生-淘天供应链产品技术部-AI算法工程师",
+   "careers": "算法, AI",
    "batch": "27届秋招",
    "end": "无截止",
-   "cities": "北京",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910080001"
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910000003"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "智多星-网络安全大模型算法",
+   "careers": "算法, 大模型",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910000005"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "智多星-EDA大模型算法",
+   "careers": "算法, 大模型",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910000004"
   },
   {
    "name": "博世中国",
-   "title": "AI Engineer_BD",
+   "title": "Embodied AI Engineer (Humanoid Robotics)_RBCN",
    "careers": "AI",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
    "cities": "无锡",
-   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/501238e3-f272-42fd-8bb5-3a96ca448a12"
+   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/29907376-c481-4c01-879c-3b2fdab520e1"
   },
   {
-   "name": "作业帮",
-   "title": "大模型算法工程师（NLP）-27秋招",
-   "careers": "算法, AI, 大模型, NLP",
+   "name": "中科曙光",
+   "title": "【2027】AI模型系统工程师-成都(J14492)",
+   "careers": "AI, 大模型, 多模态",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
-   "cities": "北京·海淀区",
-   "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595?locale=zh-CN#/job/6e0a630d-9d1b-4855-b0c2-a916adf971d3"
+   "cities": "四川省·成都市",
+   "link": "https://sugon.zhiye.com/campus/detail?jobAdId=4fd8ab94-3f0c-4765-bdf1-448f3eb78505"
   },
   {
-   "name": "作业帮",
-   "title": "LLM算法工程师（智能外呼方向）-27秋招",
-   "careers": "算法, AI, 大模型",
+   "name": "中科曙光",
+   "title": "【2027】AI模型系统工程师-天津(J14491)",
+   "careers": "AI, 大模型, 多模态",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
-   "cities": "北京·海淀区",
-   "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595?locale=zh-CN#/job/f847e1e8-28cf-4a37-8f7a-a2ecacf9076a"
+   "cities": "天津市",
+   "link": "https://sugon.zhiye.com/campus/detail?jobAdId=e037277d-68da-4db3-8f77-102b00ff275b"
   },
   {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·学习优化方向",
-   "careers": "算法, AI, 人工智能, 机器学习",
+   "name": "中科曙光",
+   "title": "【2027】AI模型系统工程师-郑州(J14490)",
+   "careers": "AI, 大模型, 多模态",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/6789a5b0-0c5b-418b-9186-46cf46158938"
+   "cities": "河南省·郑州市",
+   "link": "https://sugon.zhiye.com/campus/detail?jobAdId=147391be-db42-4556-b9c5-a15ab4ee83e9"
   },
   {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·生成式建模方向",
-   "careers": "算法, AI",
+   "name": "中交四航局",
+   "title": "2027届振华科技人工智能算法工程师（电控）(J49066)",
+   "careers": "算法, 人工智能",
    "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/c6a02ae4-f20e-43f4-b04b-6ed4246949ac"
-  },
-  {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·智能体方向",
-   "careers": "算法, AI",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/54ea4ca9-6caf-4ab3-a1aa-32c039faade8"
-  },
-  {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·强化学习与控制方向",
-   "careers": "算法, AI, 强化学习",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/24c89db5-0ad5-41bd-a4dd-39e9b9b3c53e"
-  },
-  {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·时序模型方向",
-   "careers": "算法, AI",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/6336f4c7-f542-4780-bad8-64e64ced5334"
-  },
-  {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·图学习与关系建模方向",
-   "careers": "算法, AI, 机器学习",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/7f4b6065-a99e-4f69-a827-1337f1d82e54"
-  },
-  {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·因果与稳健学习方向",
-   "careers": "算法, AI",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/201b4351-cb16-48ce-86fd-499eab97060a"
-  },
-  {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·多模态与科学智能方向",
-   "careers": "算法, AI, 机器学习, 多模态",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/31de7e86-40ae-48a7-8fc6-e5d642ccd128"
-  },
-  {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·神经科学启发方向",
-   "careers": "算法, AI, 人工智能, 机器学习",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/cd22353b-4963-4b4d-be07-a68240d57c3f"
-  },
-  {
-   "name": "聚宽投资",
-   "title": "AI算法研究员·高效学习与系统方向",
-   "careers": "算法, AI",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海,深圳,广州·虹口区, 福田区, 朝阳区, 荔湾区",
-   "link": "https://app.mokahr.com/campus-recruitment/joinquant/92347?locale=zh-CN#/job/52a79d41-070e-4dfa-8215-8ea41f29ce04"
+   "end": "2026-10-31",
+   "cities": "上海市",
+   "link": "https://ccccltd.zhiye.com/campus/detail?jobAdId=35dc9454-e01a-495d-98be-1c140362ef1e"
   },
   {
    "name": "阿里巴巴",
-   "title": "研究型实习生（Research Intern）— Agent 自进化与 Skill 迭代方向",
-   "careers": "算法",
+   "title": "研究型实习生-统⼀⾳频⽣成模型技术研究",
+   "careers": "大模型, 强化学习, 语音",
    "batch": "27届秋招",
    "end": "无截止",
-   "cities": "杭州",
-   "link": "https://campus-talent.alibaba.com/campus/position/199909920002"
-  },
-  {
-   "name": "阿里巴巴",
-   "title": "RISC-V CPU微架构技术探索 - 研究型实习生",
-   "careers": "AI, CV",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "上海",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910020001"
-  },
-  {
-   "name": "数坤科技",
-   "title": "【校招】展厅讲解(J10658)",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "北京市, 福建省·厦门市",
-   "link": "https://shukun.zhiye.com/campus/detail?jobAdId=ed285e28-ca0e-4870-9c5a-6f38c03d398a"
+   "cities": "北京 杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199908040001"
   }
  ],
- "longge_new": [],
- "longge_total": 188
+ "longge_new": [
+  {
+   "name": "金山办公",
+   "job": "全栈开发岗（C++研发、服务端、算法工程师）；AI应用岗（产品/运营/营销）",
+   "deadline": "尽快投递",
+   "code": "DSCVKMeR"
+  }
+ ],
+ "longge_total": 189
 }
