@@ -1,131 +1,122 @@
 {
- "date": "2026-10-15",
+ "date": "2026-10-16",
  "nowcoder_new": [
   {
-   "name": "辰致汽车科技集团",
-   "title": "AI系统工程师",
-   "careers": "AI",
+   "name": "浪潮集团",
+   "title": "AI算法工程师",
+   "careers": "算法, AI, 大模型, 机器学习",
    "batch": "27届秋招",
-   "end": "招满即止",
-   "cities": "重庆·两江新区",
-   "link": "https://xiaoyuan.zhaopin.com/job/CC313625410J40890106509"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "山东省济南市",
+   "link": "https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=60804&company_id=8"
   },
   {
-   "name": "辰致汽车科技集团",
-   "title": "AI域控融合算法工程师",
-   "careers": "算法, AI, 强化学习",
+   "name": "浪潮集团",
+   "title": "AI算法工程师",
+   "careers": "算法, AI, 大模型, 机器学习",
    "batch": "27届秋招",
-   "end": "招满即止",
-   "cities": "重庆·两江新区",
-   "link": "https://xiaoyuan.zhaopin.com/job/CC313625410J40890096209"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "全国",
+   "link": "https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=60805&company_id=8"
   },
   {
-   "name": "辰致汽车科技集团",
-   "title": "电机控制算法工程师",
-   "careers": "算法, AI",
+   "name": "阿里云2027届应届生招聘全球启动",
+   "title": "技术运营（AI / 开源生态方向）",
+   "careers": "AI, 大模型",
    "batch": "27届秋招",
-   "end": "招满即止",
-   "cities": "重庆",
-   "link": "https://xiaoyuan.zhaopin.com/job/CC313625410J40889667009"
-  },
-  {
-   "name": "辰致汽车科技集团",
-   "title": "电机控制算法工程师",
-   "careers": "算法",
-   "batch": "27届秋招",
-   "end": "招满即止",
-   "cities": "重庆",
-   "link": "https://xiaoyuan.zhaopin.com/job/CC313625410J40889667209"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910100002"
   },
   {
    "name": "阿里巴巴",
-   "title": "大模型推理性能优化实习生",
-   "careers": "算法, AI, 大模型",
+   "title": "研究型实习生-Training Infra工程师",
+   "careers": "大模型",
    "batch": "27届秋招",
    "end": "无截止",
    "cities": "杭州",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910040005"
+   "link": "https://campus-talent.alibaba.com/campus/position/199910100004"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "研究型实习生-Agent后训练算法",
+   "careers": "算法, 大模型, 强化学习",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910000008"
+  },
+  {
+   "name": "中国核电",
+   "title": "核动力院（先进核能技术全国重点实验室）-2026届-核能人工智能技术研究(J31171)",
+   "careers": "人工智能",
+   "batch": "27届秋招",
+   "end": "2026-11-01",
+   "cities": "四川省·成都市",
+   "link": "https://cnnc.zhiye.com/campus/detail?jobAdId=57cbfe66-7d24-41ef-9e65-d3c0660079c2"
   },
   {
    "name": "博世中国",
-   "title": "轨迹规划算法工程师_BCSC",
+   "title": "Lidar感知算法专家",
    "careers": "算法",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
-   "cities": "无锡·滨湖区",
-   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/fc761e1d-68f8-4374-a32e-85613e4bcb10"
-  },
-  {
-   "name": "博世中国",
-   "title": "BEV感知算法量化部署工程师",
-   "careers": "算法, 深度学习",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
    "cities": "无锡",
-   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/e4bbb9b7-6664-42c0-b061-f2155892f64a"
+   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/11d56857-c886-42e2-afed-17a3bd4e7848"
   },
   {
-   "name": "博世中国",
-   "title": "感知算法工程师_BCSC",
-   "careers": "算法",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "无锡·滨湖区",
-   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/07414dc0-64c8-46a0-a4c8-5dfff7f879b5"
-  },
-  {
-   "name": "黑芝麻智能",
-   "title": "AI系统开发工程师（校招）(J11207)",
-   "careers": "算法, AI, 人工智能, 大模型",
-   "batch": "27届秋招",
-   "end": "2026-10-29",
-   "cities": "湖北省·武汉市",
-   "link": "https://bsthr.zhiye.com/campus/detail?jobAdId=8dd53a8d-1870-4fef-8cd7-74790a9564a1"
-  },
-  {
-   "name": "九号公司",
-   "title": "AI平台运营项目专员（集团-AI平台与创新）",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "2026-10-25",
-   "cities": "北京·海淀区",
-   "link": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/faf8e661-e5d9-45c1-b7a8-1e2d649450c3"
-  },
-  {
-   "name": "博世中国",
-   "title": "Campus Hiring_ETAS",
-   "careers": "人工智能, 大模型",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "无锡",
-   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/d27a1125-669d-4be4-8311-6ddbc5943f96"
-  },
-  {
-   "name": "博世中国",
-   "title": "Campus Hiring_ETAS",
-   "careers": "人工智能, 大模型",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "无锡",
-   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/442c576f-02c0-47e3-b3c3-7ae585ff545e"
-  },
-  {
-   "name": "中科芯",
-   "title": "IC验证工程师-西安(J10456)",
-   "careers": "算法",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "陕西省·西安市",
-   "link": "https://cksic.zhiye.com/campus/detail?jobAdId=b14a5fd6-aed2-41b6-8200-65e139c6ac0f"
-  },
-  {
-   "name": "金蝶",
-   "title": "实施顾问（教育产品交付）",
+   "name": "绿盟科技",
+   "title": "秋招安全研究员（云/AI攻防方向）",
    "careers": "AI, 大模型",
    "batch": "27届秋招",
-   "end": "2026-11-04",
-   "cities": "深圳市",
-   "link": "https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN#/job/1b54a365-dda0-46c9-b5e0-337dfa910075"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "北京·海淀区, 广州市, 西安市",
+   "link": "https://app.mokahr.com/campus_apply/nsfocus/29118?locale=zh-CN#/job/fa1953b8-0e58-4da1-9a19-8e388d167119"
+  },
+  {
+   "name": "盈峰环境",
+   "title": "AI算法工程师（物联） AI Algorithm Engineer",
+   "careers": "算法, AI, 大模型",
+   "batch": "27届秋招",
+   "end": "招满为止（截止时间待核对）",
+   "cities": "长沙·岳麓区",
+   "link": "https://app.mokahr.com/campus-recruitment/inforeenviro/182015?locale=zh-CN#/job/8317ec37-825c-45a2-8d94-bd3ab17cc7c2"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "时空实验室实习生",
+   "careers": "算法, 机器学习",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "北京",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910100003"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "研究型实习生-Agentic RL Infra工程师",
+   "careers": "大模型, 强化学习",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910140005"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "研究型实习生-RL Systems工程师",
+   "careers": "大模型",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910060002"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "研究型实习生-药物基础模型",
+   "careers": "算法, AI, 深度学习",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910180001"
   }
  ],
  "longge_new": [],
