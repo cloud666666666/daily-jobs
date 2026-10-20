@@ -1,59 +1,50 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "nowcoder_new": [
   {
-   "name": "中冶瑞木新能源科技有限公司",
-   "title": "科研技术岗-AI算法工程师(010182)",
-   "careers": "算法, AI, 大模型, 计算机视觉",
+   "name": "",
+   "title": "规控算法与软件",
+   "careers": "算法",
    "batch": "27届秋招",
-   "end": "2026-11-05",
-   "cities": "长沙市-岳麓区",
-   "link": "https://wecruit.hotjob.cn/SU62f3786ebef57c29ead8adba/mc/detail?postId=6ad1ffe7f0cfabf2b4f70f39&recruitType=campus"
-  },
-  {
-   "name": "北京微电子技术研究所",
-   "title": "AI 编译器工程师（端到端编译栈方向）",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "北京市、西安市",
-   "link": "https://wecruit.hotjob.cn/SU6981a8698e515379dce99b4f/pb/posDetail.html?postId=6ad1cd2df0cfabf2b4f6264d&postType=campus"
-  },
-  {
-   "name": "北京微电子技术研究所",
-   "title": "AI编译器工程师（LLVM后端方向）",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "北京市、西安市",
-   "link": "https://wecruit.hotjob.cn/SU6981a8698e515379dce99b4f/pb/posDetail.html?postId=6ad1cb7cf0cfabf2b4f6228f&postType=campus"
-  },
-  {
-   "name": "北京微电子技术研究所",
-   "title": "AI 推理框架工程师（Infra 框架方向）",
-   "careers": "AI, 大模型",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "北京市、西安市",
-   "link": "https://wecruit.hotjob.cn/SU6981a8698e515379dce99b4f/pb/posDetail.html?postId=6ad1c85915a82a89c327e88b&postType=campus"
+   "end": "无截止",
+   "cities": "徐州-铜山区",
+   "link": "https://www.iguopin.com/job/detail?id=223234786167098023"
   },
   {
    "name": "",
-   "title": "力学研发工程师",
-   "careers": "算法, AI",
+   "title": "人工智能技术岗",
+   "careers": "AI, 人工智能",
    "batch": "27届秋招",
    "end": "无截止",
-   "cities": "上海-黄浦区",
-   "link": "https://www.iguopin.com/job/detail?id=217783679089378850"
+   "cities": "武汉-东西湖区",
+   "link": "https://www.iguopin.com/job/detail?id=223125641787083429"
   },
   {
    "name": "",
-   "title": "IT管理",
-   "careers": "AI",
+   "title": "电力交易中心二级工程师",
+   "careers": "算法, 人工智能",
    "batch": "27届秋招",
    "end": "无截止",
-   "cities": "苏州-常熟市",
-   "link": "https://www.iguopin.com/job/detail?id=222544595139954646"
+   "cities": "北京-东城区",
+   "link": "https://www.iguopin.com/job/detail?id=223291520302713518"
+  },
+  {
+   "name": "",
+   "title": "电力交易中心二级工程师",
+   "careers": "算法, 人工智能",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "北京-东城区",
+   "link": "https://www.iguopin.com/job/detail?id=223291519799397038"
+  },
+  {
+   "name": "",
+   "title": "电气设计工程师",
+   "careers": "算法, AI, 强化学习",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "中山",
+   "link": "https://www.iguopin.com/job/detail?id=223278709824555694"
   }
  ],
  "longge_new": [],
