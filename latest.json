@@ -1,50 +1,140 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "nowcoder_new": [
   {
    "name": "",
-   "title": "规控算法与软件",
+   "title": "Ai应用研发工程师",
+   "careers": "AI",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "河南",
+   "link": "https://www.iguopin.com/job/detail?id=218211833188714023"
+  },
+  {
+   "name": "",
+   "title": "中核粒子-核医学-AI算法（2027届）(J31193)",
+   "careers": "算法, AI",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "北京-通州区",
+   "link": "https://www.iguopin.com/job/detail?id=223421974649506471"
+  },
+  {
+   "name": "",
+   "title": "新研院智慧能源研究中心人工智能岗",
+   "careers": "人工智能",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "中国",
+   "link": "https://www.iguopin.com/job/detail?id=217773291543201321"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "低空三维航线规划算法实习生",
+   "careers": "算法, AI",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "北京",
+   "link": "https://campus-talent.alibaba.com/campus/position/199907960001"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "日常实习生-AIGC 视频产品实习生（AI 视频创作工具 / 生成式视频工作流）",
+   "careers": "AI, AIGC",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910100005"
+  },
+  {
+   "name": "自变量机器人",
+   "title": "大模型 Infra 工程师",
+   "careers": "大模型, 多模态",
+   "batch": "27届秋招",
+   "end": "招满为止（截止时间待核对）",
+   "cities": "深圳",
+   "link": "https://x2-robot.jobs.feishu.cn/912130/position/7698295256593172746/detail"
+  },
+  {
+   "name": "未岚大陆",
+   "title": "2027届校招-运动控制算法工程师（北京）",
+   "careers": "算法, 机器人",
+   "batch": "27届秋招",
+   "end": "尽快投递（截止时间待核对）",
+   "cities": "北京市",
+   "link": "https://app.mokahr.com/campus-recruitment/weilandalu/98096?locale=zh-CN#/job/f65adb16-c17d-492f-b420-c6352dfb85d5"
+  },
+  {
+   "name": "智元机器人",
+   "title": "强化学习算法专家-通用业务部",
+   "careers": "算法, 强化学习, 机器人",
+   "batch": "27届秋招",
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海",
+   "link": "https://agirobot.jobs.feishu.cn/campusrecruitment/position/7698258700787845412/detail"
+  },
+  {
+   "name": "星宸科技",
+   "title": "【2027校招】视频编解码算法工程师-上海(J10611)",
    "careers": "算法",
    "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "徐州-铜山区",
-   "link": "https://www.iguopin.com/job/detail?id=223234786167098023"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海市",
+   "link": "https://sigmastar.zhiye.com/campus/detail?jobAdId=44e4e674-3763-4e89-96e4-4ee9058bdada"
   },
   {
-   "name": "",
-   "title": "人工智能技术岗",
-   "careers": "AI, 人工智能",
+   "name": "智元机器人",
+   "title": "【共创】交互机器人交付工程师（深圳）",
+   "careers": "多模态, 机器人, 语音",
    "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "武汉-东西湖区",
-   "link": "https://www.iguopin.com/job/detail?id=223125641787083429"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "深圳",
+   "link": "https://agirobot.jobs.feishu.cn/campusrecruitment/position/7698137575504578870/detail"
   },
   {
-   "name": "",
-   "title": "电力交易中心二级工程师",
-   "careers": "算法, 人工智能",
+   "name": "智元机器人",
+   "title": "【共创】交互机器人交付工程师（上海）",
+   "careers": "多模态, 机器人, 语音",
    "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京-东城区",
-   "link": "https://www.iguopin.com/job/detail?id=223291520302713518"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海",
+   "link": "https://agirobot.jobs.feishu.cn/campusrecruitment/position/7697962085967890715/detail"
   },
   {
-   "name": "",
-   "title": "电力交易中心二级工程师",
-   "careers": "算法, 人工智能",
+   "name": "美团",
+   "title": "办公AI产品运营",
+   "careers": "AI",
    "batch": "27届秋招",
    "end": "无截止",
-   "cities": "北京-东城区",
-   "link": "https://www.iguopin.com/job/detail?id=223291519799397038"
+   "cities": "北京市 上海市",
+   "link": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4840943163&jobShareType=1"
   },
   {
-   "name": "",
-   "title": "电气设计工程师",
-   "careers": "算法, AI, 强化学习",
+   "name": "阿里巴巴",
+   "title": "AI风格训练师实习生",
+   "careers": "AI, 大模型",
    "batch": "27届秋招",
    "end": "无截止",
-   "cities": "中山",
-   "link": "https://www.iguopin.com/job/detail?id=223278709824555694"
+   "cities": "北京",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910120004"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "日常实习生-AI数据工程师-AI for Science",
+   "careers": "AI, 多模态",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910080006"
+  },
+  {
+   "name": "智元机器人",
+   "title": "【共创】硬件测试工程师",
+   "careers": "具身",
+   "batch": "27届秋招",
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海",
+   "link": "https://agirobot.jobs.feishu.cn/campusrecruitment/position/7698270819499657482/detail"
   }
  ],
  "longge_new": [],
