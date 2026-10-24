@@ -1,151 +1,113 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "nowcoder_new": [
   {
    "name": "",
-   "title": "数字化AI业务优化专项岗",
-   "careers": "AI, 人工智能, 大模型",
+   "title": "总行金融科技岗-算法工程师",
+   "careers": "算法, AI, 大模型",
    "batch": "27届秋招",
    "end": "无截止",
-   "cities": "北京-朝阳区",
-   "link": "https://www.iguopin.com/job/detail?id=223717172868811438"
+   "cities": "成都-青羊区",
+   "link": "https://www.iguopin.com/job/detail?id=221942148969268724"
   },
   {
-   "name": "阿里巴巴",
-   "title": "AI 代码评审研发实习生（Open Code Review）",
-   "careers": "AI",
+   "name": "",
+   "title": "成都香城智慧大数据科技有限公司AI应用研发岗",
+   "careers": "AI, 大模型, 多模态",
    "batch": "27届秋招",
    "end": "无截止",
-   "cities": "杭州",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910140009"
+   "cities": "成都-新都区",
+   "link": "https://www.iguopin.com/job/detail?id=223864172536925785"
   },
   {
-   "name": "移远通信",
-   "title": "27届校招-算法工程师(被动双目立体视觉)",
-   "careers": "算法, 深度学习",
+   "name": "",
+   "title": "人工智能算法工程师",
+   "careers": "算法, AI, 人工智能, 多模态",
    "batch": "27届秋招",
-   "end": "2026-11-04",
-   "cities": "佛山,上海,武汉·南山区, 南海区, 松江区, 桂林市, 洪山区, 合肥市",
-   "link": "https://app.mokahr.com/campus-recruitment/quectel/65934?locale=zh-CN#/job/dcaaa957-9533-4d60-90ad-af3d08ffc9f5"
+   "end": "无截止",
+   "cities": "北京",
+   "link": "https://www.iguopin.com/job/detail?id=223710109929310886"
   },
   {
-   "name": "移远通信",
-   "title": "27届校招-助理算法工程师（SLAM 算法）",
-   "careers": "算法, 机器人",
-   "batch": "27届秋招",
-   "end": "2026-11-04",
-   "cities": "佛山,上海,武汉·南山区, 南海区, 松江区, 桂林市, 洪山区, 合肥市",
-   "link": "https://app.mokahr.com/campus-recruitment/quectel/65934?locale=zh-CN#/job/0710cb95-bf17-434d-a760-0b9890258f24"
-  },
-  {
-   "name": "移远通信",
-   "title": "27届校招-助理算法工程师(机器人控制）",
-   "careers": "算法, 机器人",
-   "batch": "27届秋招",
-   "end": "2026-11-04",
-   "cities": "佛山,上海,武汉·南山区, 南海区, 松江区, 桂林市, 合肥市, 洪山区",
-   "link": "https://app.mokahr.com/campus-recruitment/quectel/65934?locale=zh-CN#/job/1294de5d-f67f-4179-924c-f66107b84894"
-  },
-  {
-   "name": "移远通信",
-   "title": "27届校招-助理算法工程师(三维点云)",
-   "careers": "算法, 具身, 机器人",
-   "batch": "27届秋招",
-   "end": "2026-11-04",
-   "cities": "佛山,上海,武汉·南山区, 南海区, 松江区, 桂林市, 洪山区, 合肥市",
-   "link": "https://app.mokahr.com/campus-recruitment/quectel/65934?locale=zh-CN#/job/0a3a054e-31de-4e1c-8950-52eec84d8493"
-  },
-  {
-   "name": "启元机器人",
-   "title": "产品经理（AIGC & 数字媒体方向）",
-   "careers": "AI, AIGC",
+   "name": "阿里云2027届应届生招聘全球启动",
+   "title": "AI For Science 研究员",
+   "careers": "算法, AI, 人工智能",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
-   "cities": "上海",
-   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7699080063341676854/detail"
+   "cities": "北京 杭州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910000013"
   },
   {
-   "name": "智元机器人",
-   "title": "大模型数据工程师（数据挖掘方向）-觅蜂子公司",
-   "careers": "大模型, 多模态, 具身, 机器人",
+   "name": "中国核电",
+   "title": "人工智能设计岗(J30527)",
+   "careers": "AI, 人工智能",
+   "batch": "27届秋招",
+   "end": "2026-11-01",
+   "cities": "北京市·房山区",
+   "link": "https://cnnc.zhiye.com/campus/detail?jobAdId=8a35456e-1469-4be7-a665-cdb09f302428"
+  },
+  {
+   "name": "晶泰科技",
+   "title": "具身全栈开发工程师（SDK方向）",
+   "careers": "具身, 机器人",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
-   "cities": "上海",
-   "link": "https://agirobot.jobs.feishu.cn/campusrecruitment/position/7699056876243781930/detail"
+   "cities": "上海·浦东新区",
+   "link": "https://app.mokahr.com/campus-recruitment/jingtai/2143?locale=zh-CN#/job/48d4d7b5-3c5c-44e9-9b14-318fc8b03de1"
   },
   {
-   "name": "北电数智",
-   "title": "测试开发工程师（大模型）",
-   "careers": "大模型",
+   "name": "晶泰科技",
+   "title": "AI4S数据科学岗",
+   "careers": "AI, 人工智能",
    "batch": "27届秋招",
-   "end": "2026-11-03",
-   "cities": "北京",
-   "link": "https://caz6yhvgk5z.jobs.feishu.cn/bedi/position/7699034501057481010/detail"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海·浦东新区",
+   "link": "https://app.mokahr.com/campus-recruitment/jingtai/2143?locale=zh-CN#/job/681559a1-8547-44b7-97f0-3e06c5edf5e5"
   },
   {
-   "name": "乐信圣文",
-   "title": "【27校招】AI游戏美术设计师-杭州",
-   "careers": "AI",
+   "name": "晶泰科技",
+   "title": "机器人软件测试工程师",
+   "careers": "具身, 机器人",
    "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "杭州",
-   "link": "https://learnings.jobs.feishu.cn/948023/position/7699019254019983643/detail"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海·浦东新区",
+   "link": "https://app.mokahr.com/campus-recruitment/jingtai/2143?locale=zh-CN#/job/979e8119-738b-4807-8ece-94a326166738"
   },
   {
-   "name": "北电数智",
-   "title": "大模型后训练算法工程师",
-   "careers": "算法, 大模型, 强化学习",
+   "name": "晶泰科技",
+   "title": "具身智能研发岗（仿真+世界模型）",
+   "careers": "算法, AI, 具身, AIGC",
    "batch": "27届秋招",
-   "end": "2026-11-03",
-   "cities": "北京",
-   "link": "https://caz6yhvgk5z.jobs.feishu.cn/bedi/position/7699021559869081875/detail"
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海·浦东新区",
+   "link": "https://app.mokahr.com/campus-recruitment/jingtai/2143?locale=zh-CN#/job/8cfbc66f-9a42-4210-a77c-0bf75660ad5e"
   },
   {
-   "name": "海能达",
-   "title": "AI 服务器系统架构研究员",
+   "name": "博世中国",
+   "title": "数字化工程师（AI方向）_DCCC",
    "careers": "AI",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
-   "cities": "东莞市",
-   "link": "https://app.mokahr.com/campus-recruitment/hytera/182194?locale=zh-CN#/job/7a82f047-336f-4ab0-ad6a-e67111f24ff8"
+   "cities": "无锡",
+   "link": "https://app.mokahr.com/campus-recruitment/bosch/150946?locale=zh-CN#/job/a8e79cde-57b7-4135-a3a1-6cb296cad0ab"
   },
   {
-   "name": "北电数智",
-   "title": "产品经理（AIGC）",
-   "careers": "AI, 人工智能, 大模型, AIGC",
+   "name": "",
+   "title": "产业研究岗（深合创发）",
+   "careers": "人工智能, 具身",
    "batch": "27届秋招",
-   "end": "2026-11-03",
-   "cities": "北京",
-   "link": "https://caz6yhvgk5z.jobs.feishu.cn/bedi/position/7698657834359556362/detail"
-  },
-  {
-   "name": "北电数智",
-   "title": "AIGC测试开发",
-   "careers": "AI, AIGC",
-   "batch": "27届秋招",
-   "end": "2026-11-03",
-   "cities": "北京",
-   "link": "https://caz6yhvgk5z.jobs.feishu.cn/bedi/position/7698648374028781833/detail"
-  },
-  {
-   "name": "智元机器人",
-   "title": "云端计算引擎工程师-觅蜂子公司",
-   "careers": "多模态, 自动驾驶, 具身",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海",
-   "link": "https://agirobot.jobs.feishu.cn/campusrecruitment/position/7699051048452114698/detail"
-  },
-  {
-   "name": "智元机器人",
-   "title": "部署交付工程师",
-   "careers": "算法, 大模型, 多模态, 具身",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海",
-   "link": "https://agirobot.jobs.feishu.cn/campusrecruitment/position/7698953527163275571/detail"
+   "end": "无截止",
+   "cities": "珠海-香洲区",
+   "link": "https://www.iguopin.com/job/detail?id=223887397992009303"
   }
  ],
- "longge_new": [],
- "longge_total": 192
+ "longge_new": [
+  {
+   "name": "联特科技",
+   "job": "①\t研发类：硬件开发、测试、器件/结构/热设计等；\n ②\t职能类：人力、行政、财务、采购、计划、市场等。",
+   "deadline": "尽快投递",
+   "code": "EVKM2A"
+  }
+ ],
+ "longge_total": 193
 }
