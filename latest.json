@@ -1,293 +1,95 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "nowcoder_new": [
   {
-   "name": "",
-   "title": "AI Agent工程师",
+   "name": "阿里巴巴",
+   "title": "日常实习生-用户终端技术-AI应用开发工程师",
    "careers": "AI",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京-大兴区",
-   "link": "https://www.iguopin.com/job/detail?id=224716506196348506"
-  },
-  {
-   "name": "",
-   "title": "自动驾驶开发工程师",
-   "careers": "自动驾驶",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "雄安新区-容城",
-   "link": "https://www.iguopin.com/job/detail?id=224741936429272643"
-  },
-  {
-   "name": "",
-   "title": "AI产品经理",
-   "careers": "算法, AI, 大模型",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "雄安新区-容城",
-   "link": "https://www.iguopin.com/job/detail?id=224741905139764803"
-  },
-  {
-   "name": "",
-   "title": "智能控制算法",
-   "careers": "算法",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "雄安新区-容城",
-   "link": "https://www.iguopin.com/job/detail?id=224741927973555779"
-  },
-  {
-   "name": "",
-   "title": "人工智能工程师",
-   "careers": "AI, 人工智能",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "保定·雄安新区-雄县",
-   "link": "https://www.iguopin.com/job/detail?id=224741899267739203"
-  },
-  {
-   "name": "中电信量子集团",
-   "title": "招银网络科技密码算法工程师",
-   "careers": "算法",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "其它",
-   "link": "https://wecruit.hotjob.cn/SU656e980e1c240e7aa8f75b53/mc/detail?postId=6ae3030015a82a89c3406f40&recruitType=campus"
-  },
-  {
-   "name": "中电信量子集团",
-   "title": "数据处理和算法研究",
-   "careers": "算法",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "其它",
-   "link": "https://wecruit.hotjob.cn/SU656e980e1c240e7aa8f75b53/mc/detail?postId=6ae302ff15a82a89c3406f3c&recruitType=campus"
-  },
-  {
-   "name": "中电信量子集团",
-   "title": "药物靶标发现课题负责人（量子人工智能药物设计）",
-   "careers": "人工智能",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "其它",
-   "link": "https://wecruit.hotjob.cn/SU656e980e1c240e7aa8f75b53/mc/detail?postId=6ae302f915a82a89c3406f24&recruitType=campus"
-  },
-  {
-   "name": "中电信量子集团",
-   "title": "生物医药量子计算算法工程师",
-   "careers": "算法, 机器学习",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "其它",
-   "link": "https://wecruit.hotjob.cn/SU656e980e1c240e7aa8f75b53/mc/detail?postId=6ae302f9b6fae46f67a2ed47&recruitType=campus"
-  },
-  {
-   "name": "中电信量子集团",
-   "title": "算法开发工程师",
-   "careers": "算法",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "其它",
-   "link": "https://wecruit.hotjob.cn/SU656e980e1c240e7aa8f75b53/mc/detail?postId=6ae302f5f0cfabf2b40dc839&recruitType=campus"
-  },
-  {
-   "name": "中电信量子集团",
-   "title": "量子计算研究员（算法方向）",
-   "careers": "算法, 机器学习",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "其它",
-   "link": "https://wecruit.hotjob.cn/SU656e980e1c240e7aa8f75b53/mc/detail?postId=6ae302f315a82a89c3406f1b&recruitType=campus"
-  },
-  {
-   "name": "工业和信息化部电子第五研究所",
-   "title": "人工智能算法工程师",
-   "careers": "算法, 人工智能, 强化学习",
-   "batch": "27届秋招",
-   "end": "2026-11-03",
-   "cities": "广州市",
-   "link": "https://wecruit.hotjob.cn/SU64e56baa1c240e725e37895a/mc/detail?postId=6ae2ff61b6fae46f67a2e6c6&recruitType=campus"
-  },
-  {
-   "name": "中电信量子集团",
-   "title": "量子计算研究员（人工智能方向）",
-   "careers": "算法, AI, 人工智能, 大模型",
-   "batch": "27届秋招",
-   "end": "2026-10-30",
-   "cities": "其它",
-   "link": "https://wecruit.hotjob.cn/SU656e980e1c240e7aa8f75b53/mc/detail?postId=6ae2fa33fea5e04bdab3cba2&recruitType=campus"
-  },
-  {
-   "name": "",
-   "title": "AI应用开发工程师",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "乌鲁木齐",
-   "link": "https://www.iguopin.com/job/detail?id=218251620708779554"
-  },
-  {
-   "name": "阿里巴巴",
-   "title": "千问-大模型应用方向-搜索召回实习生",
-   "careers": "大模型, 机器学习, 强化学习, 数据挖掘",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910220005"
-  },
-  {
-   "name": "阿里巴巴",
-   "title": "语音算法实习生",
-   "careers": "算法, AI, 大模型, 多模态",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京 广州 上海",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910300004"
-  },
-  {
-   "name": "阿里巴巴",
-   "title": "多模态算法实习生-多模搜索&问答",
-   "careers": "算法, AI, 多模态",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京 杭州",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910420002"
-  },
-  {
-   "name": "阿里巴巴",
-   "title": "千问-日常算法实习-垂类AI搜及 Agent 应用",
-   "careers": "算法, AI, 大模型",
    "batch": "27届秋招",
    "end": "无截止",
    "cities": "杭州",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910340004"
+   "link": "https://campus-talent.alibaba.com/campus/position/199910300005"
   },
   {
    "name": "阿里巴巴",
-   "title": "算法实习生-RAG检索算法",
-   "careers": "算法, AI, 大模型",
+   "title": "阿里国际智能技术-Agent算法工程师-日常实习生",
+   "careers": "算法, AI, 多模态, 语音",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "广州",
+   "link": "https://campus-talent.alibaba.com/campus/position/199910340006"
+  },
+  {
+   "name": "阿里巴巴",
+   "title": "阿里国际智能技术-AI搜索算法工程师-日常实习生",
+   "careers": "算法, AI",
    "batch": "27届秋招",
    "end": "无截止",
    "cities": "北京",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910220006"
+   "link": "https://campus-talent.alibaba.com/campus/position/199910240006"
   },
   {
-   "name": "阿里巴巴",
-   "title": "通用Agent算法实习生",
-   "careers": "算法, AI, 强化学习",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京 杭州",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910340005"
-  },
-  {
-   "name": "阿里巴巴",
-   "title": "算法实习生 - 医疗方向",
-   "careers": "算法, AI, 大模型, 多模态",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京 杭州",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910200004"
-  },
-  {
-   "name": "阿里巴巴",
-   "title": "算法实习生-基础大模型方向（研究型）",
-   "careers": "算法, 大模型, 多模态, 语音",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京 杭州",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910420004"
-  },
-  {
-   "name": "阿里巴巴",
-   "title": "算法实习生-多模态推理与agent（学习方向）",
-   "careers": "算法, 大模型, 多模态, 强化学习",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "北京",
-   "link": "https://campus-talent.alibaba.com/campus/position/199910280005"
-  },
-  {
-   "name": "中国平安",
-   "title": "27届AI全栈开发-XSDX",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "上海市",
-   "link": "https://campus.pingan.com/positionDetail?positionId=3e1217f67a7038ddb2e0122d52626636"
-  },
-  {
-   "name": "中国平安",
-   "title": "27届AI全栈开发-XSZC",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "上海市",
-   "link": "https://campus.pingan.com/positionDetail?positionId=aa83edc563193ce0a169116c22925067"
-  },
-  {
-   "name": "中国平安",
-   "title": "27届AI全栈开发-XSZX",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "上海市",
-   "link": "https://campus.pingan.com/positionDetail?positionId=8f3857fb1aa33181a58743aa2997df4c"
-  },
-  {
-   "name": "中国平安",
-   "title": "27届AI全栈开发-XSH5",
-   "careers": "AI",
-   "batch": "27届秋招",
-   "end": "无截止",
-   "cities": "上海市",
-   "link": "https://campus.pingan.com/positionDetail?positionId=9e25dc8b72af3e589c1ce24201eaea5e"
-  },
-  {
-   "name": "极智嘉",
-   "title": "算法工程师（运筹优化与智能决策）",
-   "careers": "算法, 人工智能, 机器学习, 深度学习",
+   "name": "灿芯半导体",
+   "title": "通信算法工程师",
+   "careers": "算法",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
-   "cities": "朝阳区",
-   "link": "https://app.mokahr.com/campus-recruitment/geekplus/168533?locale=zh-CN#/job/fa89f693-b31b-498d-8d4a-b44b2fc71e54"
+   "cities": "上海市",
+   "link": "https://britesemi.zhiye.com/campus/detail?jobAdId=3ade862c-a499-4dd0-b9ce-b516f630e831"
   },
   {
    "name": "启元机器人",
-   "title": "关节模组控制开发工程师",
+   "title": "语音交互测试工程师",
+   "careers": "机器人, 语音",
+   "batch": "27届秋招",
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海",
+   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7701924330754066738/detail"
+  },
+  {
+   "name": "中国平安",
+   "title": "27届TTS算法工程师-SZ",
+   "careers": "算法",
+   "batch": "27届秋招",
+   "end": "无截止",
+   "cities": "上海市",
+   "link": "https://campus.pingan.com/positionDetail?positionId=1d6dbadcdd0a335e95343a7531142d83"
+  },
+  {
+   "name": "智元机器人",
+   "title": "【共创】电子电气工程师",
+   "careers": "机器人",
+   "batch": "27届秋招",
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海",
+   "link": "https://agirobot.jobs.feishu.cn/campusrecruitment/position/7702070007064299802/detail"
+  },
+  {
+   "name": "启元机器人",
+   "title": "关节模组硬件工程师",
+   "careers": "机器人",
+   "batch": "27届秋招",
+   "end": "招满为止（截止时间待核对）",
+   "cities": "上海",
+   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7702036090131876106/detail"
+  },
+  {
+   "name": "启元机器人",
+   "title": "关节模组控制工程师",
    "careers": "算法",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
    "cities": "上海",
-   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7701688131293382966/detail"
+   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7702036090131630346/detail"
   },
   {
    "name": "启元机器人",
-   "title": "关节模组热仿真工程师",
-   "careers": "具身, 机器人",
+   "title": "感知规控测试工程师",
+   "careers": "机器人",
    "batch": "27届秋招",
    "end": "招满为止（截止时间待核对）",
    "cities": "上海",
-   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7701691588489054502/detail"
-  },
-  {
-   "name": "启元机器人",
-   "title": "软件产品经理",
-   "careers": "算法, 机器人",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海",
-   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7701653141804304691/detail"
-  },
-  {
-   "name": "启元机器人",
-   "title": "音视频硬件研发工程师",
-   "careers": "算法, 机器人",
-   "batch": "27届秋招",
-   "end": "招满为止（截止时间待核对）",
-   "cities": "上海",
-   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7701562431805606163/detail"
+   "link": "https://primebot.jobs.feishu.cn/campusrecruitment/position/7701920177507551515/detail"
   }
  ],
  "longge_new": [],
